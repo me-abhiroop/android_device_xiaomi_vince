@@ -154,8 +154,7 @@ PRODUCT_PACKAGES += \
     libcamshim \
     libmm-qcamera \
     libui_shim \
-    libdng_sdk.vendor \
-    Snap
+    libdng_sdk.vendor
 
 # Component overrides
 PRODUCT_COPY_FILES += \

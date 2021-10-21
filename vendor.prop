@@ -191,6 +191,9 @@ persist.vendor.recovery_update=false
 ro.surface_flinger.max_frame_buffer_acquired_buffers=3
 ro.surface_flinger.use_smart_90_for_video=true
 
+# System
+persist.sys.binary_xml=false
+
 # Time Services
 persist.backup.ntpServer=0.pool.ntp.org
 
